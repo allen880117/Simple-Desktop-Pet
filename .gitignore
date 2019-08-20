@@ -1,0 +1,7 @@
+# File Name .gitignore
+
+# Ignore Dir '.vs'
+/.vs
+
+# Ignore 'gitConfigInit'
+gitConfigInit
