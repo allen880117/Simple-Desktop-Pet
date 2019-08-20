@@ -1,0 +1,10 @@
+D:\C#\Simple_Desktop_Pet\Simple_Desktop_Pet\obj\Debug\Simple_Desktop_Pet.csprojAssemblyReference.cache
+D:\C#\Simple_Desktop_Pet\Simple_Desktop_Pet\obj\Debug\Simple_Desktop_Pet.Form1.resources
+D:\C#\Simple_Desktop_Pet\Simple_Desktop_Pet\obj\Debug\Simple_Desktop_Pet.Properties.Resources.resources
+D:\C#\Simple_Desktop_Pet\Simple_Desktop_Pet\obj\Debug\Simple_Desktop_Pet.csproj.GenerateResource.cache
+D:\C#\Simple_Desktop_Pet\Simple_Desktop_Pet\obj\Debug\Simple_Desktop_Pet.csproj.CoreCompileInputs.cache
+D:\C#\Simple_Desktop_Pet\Simple_Desktop_Pet\bin\Debug\Simple_Desktop_Pet.exe.config
+D:\C#\Simple_Desktop_Pet\Simple_Desktop_Pet\bin\Debug\Simple_Desktop_Pet.exe
+D:\C#\Simple_Desktop_Pet\Simple_Desktop_Pet\bin\Debug\Simple_Desktop_Pet.pdb
+D:\C#\Simple_Desktop_Pet\Simple_Desktop_Pet\obj\Debug\Simple_Desktop_Pet.exe
+D:\C#\Simple_Desktop_Pet\Simple_Desktop_Pet\obj\Debug\Simple_Desktop_Pet.pdb
