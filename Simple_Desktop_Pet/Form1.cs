@@ -171,6 +171,7 @@ namespace Simple_Desktop_Pet
 				Console.WriteLine("CurrentLeft: "+Convert.ToString(this.Left));
 				Console.WriteLine("Goal Top: "+Convert.ToString(goalPosTop));
 				Console.WriteLine("Goal Left: "+Convert.ToString(goalPosLeft));
+				Console.WriteLine("PngNum: " + Convert.ToString(getPngNum()));
 
 				if (this.Left == goalPosLeft && this.Top == goalPosTop)
 				{
@@ -184,7 +185,15 @@ namespace Simple_Desktop_Pet
 				if (this.Top < goalPosTop) this.Top++;
 				else if (this.Top > goalPosTop) this.Top--;
 			}
-		}	}
+		}
 
-
+		private int getPngNum()
+		{
+			string dataPath = System.IO.Path.GetDirectoryName(Application.ExecutablePath);
+			dataPath = System.IO.Directory.GetParent(dataPath).FullName;
+			dataPath = System.IO.Directory.GetParent(dataPath).FullName + @"\Resources";
+			System.IO.DirectoryInfo directoryInfo = new System.IO.DirectoryInfo(dataPath);
+			return directoryInfo.GetFiles("*.png").Length;
+		}
+	}
 }
